@@ -1,0 +1,14 @@
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/RPG Charecters system.GeneratedMSBuildEditorConfig.editorconfig
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/RPG Charecters system.AssemblyInfoInputs.cache
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/RPG Charecters system.AssemblyInfo.cs
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/RPG Charecters system.csproj.CoreCompileInputs.cache
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/bin/Debug/net10.0/RPG Charecters system
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/bin/Debug/net10.0/RPG Charecters system.deps.json
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/bin/Debug/net10.0/RPG Charecters system.runtimeconfig.json
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/bin/Debug/net10.0/RPG Charecters system.dll
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/bin/Debug/net10.0/RPG Charecters system.pdb
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/RPG Charecters system.dll
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/refint/RPG Charecters system.dll
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/RPG Charecters system.pdb
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/RPG Charecters system.genruntimeconfig.cache
+/home/bilol/RiderProjects/RPG Charecters system/RPG Charecters system/obj/Debug/net10.0/ref/RPG Charecters system.dll
